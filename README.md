@@ -12,11 +12,9 @@ Sou um estudante de Engenharia de Computação com experiência em desenvolvimen
 
 ## 📊 Estatísticas do GitHub:
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=CarlosGabrielModesto&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosGabrielModesto&theme=react&hide_border=false" alt="Estatísticas de streak do GitHub" /><br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGabrielModesto&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais utilizadas" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosGabrielModesto&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosGabrielModesto&theme=react&hide_border=false" alt="Estatísticas de streak do GitHub" /><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGabrielModesto&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens mais utilizadas" />
 
 ---
 <div align="center">
