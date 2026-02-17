@@ -1,43 +1,36 @@
-## 💫 Sobre Mim 👋:
-Graduado em Engenharia de Computação pela Faculdade Galileu (2024). Técnico em Desenvolvimento de Sistemas (2023) e em Informática para Internet (2022) pelo SENAI Luiz Massa, além de Técnico em Automação Industrial (2014) pela ETEC Domingos Minicucci Filho. Experiência em Ciência da Computação e Energia Solar, com foco em modelagem de banco de dados, processamento de dados e monitoramento de radiação solar. Possui certificações Microsoft (Azure AI e Data Fundamentals), Google Cloud (Cloud, IA e Big Data) e Oracle (Java). Atuou em iniciação científica e estágio técnico na UNESP - Botucatu, onde é mestrando em Engenharia Agrícola.
+# Hi there, I'm Carlos Gabriel Modesto 👋
 
-## 💻 Tecnologias Utilizadas:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Cloud" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" style="margin-right: 10px;" />
+## 💫 Sobre Mim | About Me:
+
+Engenheiro de Computação (2024) com formação técnica em Automação Industrial e Desenvolvimento de Sistemas. Atualmente, é Mestrando em Engenharia Agrícola e pesquisador, com foco em Machine Learning, Big Data e Irradiância Solar. Possui certificações internacionais em Azure (AI e Data Fundamentals), Google Cloud (Cloud e IA) e Java.
+
+Computer Engineer (2024) with a technical background in Industrial Automation and Systems Development. Currently a Master's student in Agricultural Engineering and researcher, focusing on Machine Learning, Big Data, and Solar Irradiance. Holds international certifications in Azure (AI & Data Fundamentals), Google Cloud (Cloud & AI), and Java.
+
+## 🛠️ Technologies & Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-
-
-<br>
-
-## 📊 Estatísticas do GitHub:
-
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosGabrielModesto&theme=react&hide_border=false" alt="Estatísticas de streak do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosGabrielModesto&theme=react" alt="GitHub Streak Stats" />
 </p>
 
-## ✍️ Citação Aleatória:
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosGabrielModesto&show_icons=true&theme=react" alt="Carlos GitHub Stats" />
 </p>
 
 ---
-<div align="center">
-    <a href="https://visitcount.itsvg.in/api?id=CarlosGabrielModesto&icon=0&color=0">
-        <img src="https://visitcount.itsvg.in/api?id=CarlosGabrielModesto&icon=0&color=0" alt="Contador de Visitas" style="width: 220px; height: 40px;">
-    </a>
-</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="http://lattes.cnpq.br/9699036690474846">
+    <img src="https://img.shields.io/badge/Currículo_Lattes-9699036690474846-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Lattes" />
+  </a>
+  <br><br>
+  <img src="https://visitcount.itsvg.in/api?id=CarlosGabrielModesto&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Visitor Count" />
+</div>
