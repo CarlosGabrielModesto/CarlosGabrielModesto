@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&height=80&lines=👋+Hi,+I'm+Carlos+Gabriel+Modesto;🔬+ML+Researcher+%7C+Data+Engineer;📡+Master's+Student+%40+UNESP;💡+Detecting+Extreme+Events+in+Solar+Irradiance" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=850&height=80&lines=👋+Hi,+I'm+Carlos+Gabriel+Modesto;🔬+Machine+Learning+Researcher+%7C+Data+Engineer;📡+Master's+Student+at+UNESP;💡+Solar+Irradiance+Anomaly+Detection" alt="Typing Animation" />
 
 <p>
-  <a href="mailto:gabriel.s.modesto2@gmail.com?subject=Contact%20from%20GitHub"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/carlos-modesto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="http://lattes.cnpq.br/9699036690474846"><img src="https://img.shields.io/badge/Lattes-0066cc?style=flat-square&logo=google-scholar&logoColor=white" /></a>
-  <a href="https://orcid.org/0009-0003-3039-4397"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+  <a href="mailto:gabriel.s.modesto2@gmail.com?subject=Contact%20from%20GitHub">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-modesto">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://lattes.cnpq.br/9699036690474846">
+    <img alt="Lattes" src="https://img.shields.io/badge/Lattes-0066CC?style=flat-square&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0003-3039-4397">
+    <img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -15,9 +23,9 @@
 
 ## About
 
-Master's student in Agricultural Engineering @ UNESP, researching **Machine Learning for solar irradiance anomaly detection**. CNPq scholarship holder with expertise in Big Data, ETL pipelines, and time series analysis.
+Master’s student in Agricultural Engineering at UNESP, focused on machine learning for anomaly detection in solar irradiance time series. CNPq scholarship recipient with experience in Big Data, ETL pipelines, and time series analysis.
 
-🔐 **Patent holder** • 📰 **5+ published papers** • 🎓 **Azure + Google Cloud certified**
+🔐 **Patent co-inventor** • 📰 **Author/co-author of 5+ papers** • 🎓 **Azure- and Google Cloud-certified**
 
 ---
 
@@ -25,29 +33,28 @@ Master's student in Agricultural Engineering @ UNESP, researching **Machine Lear
 
 **Languages:** Python • Java • C++ • SQL  
 **ML/Data:** TensorFlow • Pandas • Scikit-learn • NumPy  
-**Cloud:** Azure • Google Cloud • Docker
+**Cloud/Data Engineering:** Azure • Google Cloud • Docker
 
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosGabrielModesto/CarlosGabrielModesto/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosGabrielModesto/CarlosGabrielModesto/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosGabrielModesto/CarlosGabrielModesto/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/CarlosGabrielModesto/CarlosGabrielModesto/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ---
 
 ## Featured Projects
 
-| 📊 | **Solar Irradiance ML Pipeline** — Detecting extreme events in solar radiation using ML (Master's thesis) |
-|---|---|
-| 🔧 | **Big Data ETL** — Production pipeline for large-scale solar measurements (Python, Azure) |
-| 🤖 | **Computer Vision** — Recyclable waste classification with Azure AI (2024) |
-| 🔐 | **IoT Monitoring System** — Real-time UV radiation tracking (Patent BR512026000933) |
+- **Solar Irradiance ML Pipeline** — Machine learning pipeline for detecting extreme events in solar irradiance time series.
+- **Big Data ETL** — Production pipeline for large-scale solar measurement data using Python and Azure.
+- **Computer Vision** — Recyclable waste classification project using Azure AI.
+- **IoT Monitoring System** — Real-time UV radiation monitoring system related to patent BR512026000933.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
