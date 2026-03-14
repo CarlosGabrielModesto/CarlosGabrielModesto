@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&height=80&lines=👋+Hi,+I'm+Carlos+Gabriel+Modesto;🔬+ML+Researcher+%7C+Data+Engineer;📡+Master's+Student+%40+UNESP;💡+Detecting+Extreme+Events+in+Solar+Irradiance" alt="Typing Animation"/>
 
 <p>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=gabriel.s.modesto2@gmail.com&su=Contact"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/carlos-modesto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gabriel.s.modesto2@gmail.com?subject=Contact%20from%20GitHub"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/carlos-modesto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="http://lattes.cnpq.br/9699036690474846"><img src="https://img.shields.io/badge/Lattes-0066cc?style=flat-square&logo=google-scholar&logoColor=white" /></a>
   <a href="https://orcid.org/0009-0003-3039-4397"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
 </p>
